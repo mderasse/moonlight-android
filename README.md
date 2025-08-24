@@ -9,3 +9,4 @@ This is an unofficial fork of Moonlight Android, which adds an accessibility key
 To use this fork, you need to download the pre-built APK file from the latest Actions build entry in this project and install it (of course, you can also pull the source code and build it yourself according to the upstream build method).
 
 After the initial installation, you need to manually open the settings, find the accessibility settings, and manually enable the Moonlight Physical Keyboard Service. After that, you can normally connect to the remote host and use the shortcuts on the physical keyboard.
+.
